@@ -1,2 +1,10 @@
 # github-final-project
-This is github final project's repo just to get the grade in the course
+
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
+
